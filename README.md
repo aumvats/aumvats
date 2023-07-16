@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"> <a href="https://twitter.com/aumvats" target="blank"><img src="https://img.shields.io/twitter/follow/aumvats?logo=twitter&style=for-the-badge" alt="aumvats" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS & Javascript.**
+- 🌱 I’m currently learning **Python.**
 
-- 📫 How to reach me **its.aumvats@gmail.com**
+- 📫 How to reach me **aum.vats.unblurred@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
