@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aum Vats</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"> <a href="https://twitter.com/aumvats" target="blank"><img src="https://img.shields.io/twitter/follow/aumvats?logo=twitter&style=for-the-badge" alt="aumvats" /></a> </p>
-
+<p align="center">[![Peerlist](https://github-readme-badge.peerlist.io/api/aumvats)](https://peerlist.io/aumvats)</p>
 - 🌱 I’m currently learning **Python.**
 
 - 📫 How to reach me **aum.vats.unblurred@gmail.com**
