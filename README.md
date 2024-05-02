@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center"> <a href="https://twitter.com/aumvats" target="blank"><img src="https://img.shields.io/twitter/follow/aumvats?logo=twitter&style=for-the-badge" alt="aumvats" /></a> </p>
 <p align="center"> <a href="ttps://peerlist.io/aumvats"><img src="https://github-readme-badge.peerlist.io/api/aumvats"></a></p>
-- 🌱 I’m currently learning **Python.**
+
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **aum.vats.unblurred@gmail.com**
 
