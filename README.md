@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aumvats" height="30" width="40" /></a>
 <a href="https://instagram.com/aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aumvats" height="30" width="40" /></a>
 <a href="https://medium.com/@aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aumvats" height="30" width="40" /></a>
-<a href="ttps://peerlist.io/aumvats" target="blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/aumvats"></a>
+<a href="https://peerlist.io/aumvats" target="blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/aumvats"></a>
 </p>
 
 
