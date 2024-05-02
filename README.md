@@ -5,16 +5,16 @@
 
 - 📫 How to reach me **aum.vats.unblurred@gmail.com**
 
-- All my projects are available on <a href="https://buildinblog.vercel/app">BuildInBlog</a>
+- All my projects are available on <a href="https://buildinblog.vercel.app">BuildInBlog</a>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aumvats" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aumvats" height="30" width="40" /></a>
-<a href="https://instagram.com/aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aumvats" height="30" width="40" /></a>
-<a href="https://medium.com/@aumvats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aumvats" height="30" width="40" /></a>
-<a href="https://peerlist.io/aumvats" target="blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/aumvats"></a>
+<a href="https://twitter.com/aumvats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aumvats" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aumvats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aumvats" height="30" width="40" /></a>
+<a href="https://instagram.com/aumvats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aumvats" height="30" width="40" /></a>
+<a href="https://medium.com/@aumvats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aumvats" height="30" width="40" /></a>
+<a href="https://peerlist.io/aumvats" target="_blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/aumvats"></a>
 </p>
 
 
