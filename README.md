@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **aum.vats.unblurred@gmail.com**
 
-- All my projects are available on <a href="https://buildinblog.vercel.app">BuildInBlog</a>
 
 
 <h3 align="center">Connect with me:</h3>
